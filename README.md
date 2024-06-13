@@ -34,6 +34,36 @@ device.
 Additional documentation is available in Godot's help window after installing
 the plugin.
 
+## Icon Notes
+
+- The 64px and 128px icons are missing:
+	- mouse/wheel_left.png
+	- mouse/wheel_right.png
+- 64px and 128px support white or colored buttons and an outline style
+- There is not perfect overlap between 16px and other sizes for keyboard keys.
+- 16px contains the following extra keyboard keys:
+	- at.png
+	- cent.png
+	- dollar.png
+	- media_back.png
+	- media_forward.png
+	- media_next.png
+	- media_pause.png
+	- media_play.png
+	- media_previous.png
+	- media_record.png
+	- media_stop.png
+	- meta.png
+	- nbsp.png
+	- percent.png
+	- pipe.png
+	- scroll.png
+	- tile_0504.png
+	- underscore.png
+- 16px\sony\ps.png does not exist in new size due to changes in Sony controllers
+- The updated Kenney pack includes many more buttons than in the original.
+	- Those have not been included here.
+
 ## License
 
 The plugin is distributed under the MIT license. See [LICENSE](LICENSE) for
